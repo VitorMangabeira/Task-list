@@ -1,6 +1,5 @@
-import Lista from "./src/index"
+import TodoList from "./src/components/list" 
 
 export default function App() {
-  
-  return <Lista/>
+  return <TodoList/>
 }
